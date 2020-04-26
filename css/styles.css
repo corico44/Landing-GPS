@@ -197,10 +197,45 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-
+.servicios{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.imgcuidad2{
+    padding-left: 1em;
+    height: 70px;
+}
+.imgcuidad1{
+    padding-top: 1em;
+    height: 90px;
+}
+.rrss1{
+    height: 40px;
+}
+.rrss2{
+    height: 35px;
+}
+.rrss3{
+    height: 38px;
+}
+.phone{
+    height: 60px;
+    margin-bottom: 1em;
+}
+.mail{
+    height: 60px;
+    margin-bottom: 1em;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
+}
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 table {
